@@ -1,0 +1,6 @@
+pandera
+responses
+pandas
+sqlalchemy
+matplotlib
+psycopg2-binary
